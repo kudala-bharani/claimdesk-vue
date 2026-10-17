@@ -1,5 +1,7 @@
 # ClaimDesk
 
+[Open the live demo](https://kudala-bharani.github.io/claimdesk-vue/)
+
 A focused claims worklist built with **Vue 3, TypeScript, Pinia, and PrimeVue**. The interface brings search, review context, valid workflow steps, and recoverable request states into one small application.
 
 This is a portfolio demo with entirely fictional records. It is not affiliated with an insurer and does not perform coverage, payment, or medical decisions.
